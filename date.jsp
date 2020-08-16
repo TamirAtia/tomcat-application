@@ -8,7 +8,7 @@
 </head>
 <%@ page import="java.util.Date" %>
 <body style="background-color: blanchedalmond;">
-<h3>Hello Devops!</h3>
+<h3>Hello Devops!!</h3>
 
 </body>
 </html>
